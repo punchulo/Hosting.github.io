@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="..\xslt\cuestionario.xslt"?>
+<formulario>
+	<pregunta>
+		<titulo>¿Qué significa DOM en XML?</titulo>
+		<opcion1>Document Object Model</opcion1>
+		<opcion2>Data Object Model</opcion2>
+		<opcion3>Document Order Model</opcion3>
+	</pregunta>
+	<pregunta>
+		<titulo>¿Cuál es la diferencia entre un documento bien formado y un documento válido en XML?</titulo>
+		<opcion1>Un documento bien formado cumple con las reglas sintácticas de XML, mientras que un documento válido también cumple con un conjunto de reglas semánticas definidas por un esquema o DTD.</opcion1>
+		<opcion2>Un documento bien formado es legible por humanos, mientras que un documento válido es legible por máquinas.</opcion2>
+		<opcion3>Un documento bien formado es un requisito previo para que un documento sea válido en XML.</opcion3>
+	</pregunta>
+	<pregunta>
+		<titulo>¿Qué es un CDATA en XML?</titulo>
+		<opcion1>Una sección de datos que se trata como texto sin formato</opcion1>
+		<opcion2>Un atributo que define un conjunto de valores posibles para un elemento</opcion2>
+		<opcion3> Una sección de código que se omite en la interpretación</opcion3>
+	</pregunta>
+	<pregunta>
+		<titulo>¿Qué es un proceso de transformación en XML?</titulo>
+		<opcion1>Un proceso en el que un documento XML se convierte en otro formato, como HTML o PDF</opcion1>
+		<opcion2>Un proceso en el que un documento XML se valida contra un esquema o DTD</opcion2>
+		<opcion3>Un proceso en el que se modifican los datos en un documento XML sin cambiar su estructura</opcion3>
+	</pregunta>
+	<pregunta>
+		<titulo>¿Qué es un espacio de nombres predeterminado en XML?</titulo>
+		<opcion1>Un espacio de nombres que se aplica a todos los elementos y atributos de un documento XML a menos que se especifique lo contrario</opcion1>
+		<opcion2>Un espacio de nombres que se aplica solo a los elementos y atributos que tienen un prefijo específicon</opcion2>
+		<opcion3>Un espacio de nombres que no se puede modificar en un documento XML</opcion3>
+	</pregunta>
+	<pregunta>
+		<titulo>¿Qué es una entidad en XML?</titulo>
+		<opcion1>Un valor reemplazable que se utiliza para representar caracteres especiales en un documento XML</opcion1>
+		<opcion2>Un tipo de elemento que se utiliza para definir una sección de contenido en un documento XML</opcion2>
+		<opcion3>Un tipo de atributo que se utiliza para definir una relación entre dos elementos en un documento XML</opcion3>
+	</pregunta>
+	<pregunta>
+		<titulo>¿Qué es una entidad externa en XML?</titulo>
+		<opcion1>Una entidad que se define fuera del documento XML y se referencia en el documento mediante una declaración de entidad externa</opcion1>
+		<opcion2>Una entidad que se define en el documento XML y se referencia en el documento mediante una declaración de entidad interna</opcion2>
+		<opcion3>Una entidad que se utiliza para representar un valor de atributo que no es un valor de cadena literal</opcion3>
+	</pregunta>
+	<pregunta>
+		<titulo>¿Qué es un esquema en XML?</titulo>
+		<opcion1>Un conjunto de reglas que definen la estructura y contenido permitido en un documento XML</opcion1>
+		<opcion2>Un conjunto de etiquetas predefinidas que se pueden utilizar en un documento XML</opcion2>
+		<opcion3>Un conjunto de transformaciones que se aplican a un documento XML para convertirlo en otro formato</opcion3>
+	</pregunta>
+	<pregunta>
+		<titulo>¿Qué es una transformación XQuery en XML?</titulo>
+		<opcion1>Un lenguaje para consultar y transformar datos en documentos XML</opcion1>
+		<opcion2>Un lenguaje para definir elementos personalizados en XML</opcion2>
+		<opcion3>Un lenguaje para crear documentos HTML</opcion3>
+	</pregunta>
+	<pregunta>
+		<titulo>¿Qué es el espacio de nombres XML Schema?</titulo>
+		<opcion1>Un espacio de nombres que se utiliza para definir elementos y atributos en un esquema XML</opcion1>
+		<opcion2>Un espacio de nombres predeterminado que se aplica a todos los elementos y atributos de un documento XML</opcion2>
+		<opcion3>Un espacio de nombres que se utiliza para definir transformaciones en XSLT</opcion3>
+	</pregunta>
+</formulario>

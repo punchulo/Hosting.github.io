@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="..\xslt\cuestionario.xslt"?>
+<formulario>
+	<question>
+		<text>¿Qué significa DOM en XML?</text>
+		<answer1>A) Document Object Model</answer1>
+		<answer2>B) Data Object Model</answer2>
+		<answer3>C) Document Order Model</answer3>
+	</question>
+	<question>
+		<text>¿Cuál es la diferencia entre un documento bien formado y un documento válido en XML?</text>
+		<answer1>A) Un documento bien formado cumple con las reglas sintácticas de XML, mientras que
+			un documento válido también cumple con un conjunto de reglas semánticas definidas por un
+			esquema o DTD.</answer1>
+		<answer2>B) Un documento bien formado es legible por humanos, mientras que un documento
+			válido es legible por máquinas.</answer2>
+		<answer3>C) Un documento bien formado es un requisito previo para que un documento sea
+			válido en XML.</answer3>
+	</question>
+	<question>
+		<text>¿Qué es un CDATA en XML?</text>
+		<answer1>A) Una sección de datos que se trata como texto sin formato</answer1>
+		<answer2>B) Un atributo que define un conjunto de valores posibles para un elemento</answer2>
+		<answer3>C) Una sección de código que se omite en la interpretación</answer3>
+	</question>
+	<question>
+		<text>¿Qué es un proceso de transformación en XML?</text>
+		<answer1>A) Un proceso en el que un documento XML se convierte en otro formato, como HTML o
+			PDF</answer1>
+		<answer2>B) Un proceso en el que un documento XML se valida contra un esquema o DTD</answer2>
+		<answer3>C) Un proceso en el que se modifican los datos en un documento XML sin cambiar su
+			estructura</answer3>
+	</question>
+	<question>
+		<text>¿Qué es un espacio de nombres predeterminado en XML?</text>
+		<answer1>A) Un espacio de nombres que se aplica a todos los elementos y atributos de un
+			documento XML a menos que se especifique lo contrario</answer1>
+		<answer2>B) Un espacio de nombres que se aplica solo a los elementos y atributos que tienen
+			un prefijo específico</answer2>
+		<answer3>C) Un espacio de nombres que no se puede modificar en un documento XML</answer3>
+	</question>
+	<question>
+		<text>¿Qué es una entidad en XML?</text>
+		<answer1>A) Un valor reemplazable que se utiliza para representar caracteres especiales en
+			un documento XML</answer1>
+		<answer2>B) Un tipo de elemento que se utiliza para definir una sección de contenido en un
+			documento XML</answer2>
+		<answer3>C) Un tipo de atributo que se utiliza para definir una relación entre dos elementos
+			en un documento XML</answer3>
+	</question>
+	<question>
+		<text>¿Qué es una entidad externa en XML?</text>
+		<answer1>A) Una entidad que se define fuera del documento XML y se referencia en el
+			documento mediante una declaración de entidad externa</answer1>
+		<answer2>B) Una entidad que se define en el documento XML y se referencia en el documento
+			mediante una declaración de entidad interna</answer2>
+		<answer3>C) Una entidad que se utiliza para representar un valor de atributo que no es un
+			valor de cadena literal</answer3>
+	</question>
+	<question>
+		<text>¿Qué es un esquema en XML?</text>
+		<answer1>A) Un conjunto de reglas que definen la estructura y contenido permitido en un
+			documento XML</answer1>
+		<answer2>B) Un conjunto de etiquetas predefinidas que se pueden utilizar en un documento XML</answer2>
+		<answer3>C) Un conjunto de transformaciones que se aplican a un documento XML para
+			convertirlo en otro formato</answer3>
+	</question>
+	<question>
+		<text>¿Qué es una transformación XQuery en XML?</text>
+		<answer1>A) Un lenguaje para consultar y transformar datos en documentos XML</answer1>
+		<answer2>B) Un lenguaje para definir elementos personalizados en XML</answer2>
+		<answer3>C) Un lenguaje para crear documentos HTML</answer3>
+	</question>
+	<question>
+		<text>¿Qué es el espacio de nombres XML Schema?</text>
+		<answer1>A) Un espacio de nombres que se utiliza para definir elementos y atributos en un
+			esquema XML</answer1>
+		<answer2>B) Un espacio de nombres predeterminado que se aplica a todos los elementos y
+			atributos de un documento XML</answer2>
+		<answer3>C) Un espacio de nombres que se utiliza para definir transformaciones en XSLT</answer3>
+	</question>
+</formulario>
