@@ -16,7 +16,7 @@
     <html>
       <head>
         <title>Cuestionario</title>
-        <link rel="stylesheet" href="../css/cuestionario.css"/>
+        <link rel="stylesheet" href="cuestionario.css"/>
       </head>
       <body>
         <nav>
